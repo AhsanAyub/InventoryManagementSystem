@@ -1,0 +1,9 @@
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\bin\Release\DataLayer.dll
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\bin\Release\DataLayer.pdb
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\bin\Release\Entity.dll
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\bin\Release\Framework.dll
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\bin\Release\Entity.pdb
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\bin\Release\Framework.pdb
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\obj\Release\DataLayer.dll
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\obj\Release\DataLayer.pdb

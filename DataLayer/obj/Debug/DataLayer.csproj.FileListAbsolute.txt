@@ -1,0 +1,4 @@
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\bin\Debug\DataLayer.dll
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\bin\Debug\DataLayer.pdb
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\obj\Debug\DataLayer.dll
+H:\University Doc\Coding\InventoryManagementSystem\DataLayer\obj\Debug\DataLayer.pdb

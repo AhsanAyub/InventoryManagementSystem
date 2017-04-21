@@ -1,0 +1,15 @@
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\bin\Release\InventoryManagementSystem.exe
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\bin\Release\InventoryManagementSystem.pdb
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\bin\Release\DataLayer.dll
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\bin\Release\Entity.dll
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\bin\Release\Framework.dll
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\bin\Release\DataLayer.pdb
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\bin\Release\Entity.pdb
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\bin\Release\Framework.pdb
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Release\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Release\InventoryManagementSystem.MainForm.resources
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Release\InventoryManagementSystem.Properties.Resources.resources
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Release\InventoryManagementSystem.csproj.GenerateResource.Cache
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Release\InventoryManagementSystem.exe
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Release\InventoryManagementSystem.pdb
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Release\InventoryManagementSystem.ProductInfo.resources

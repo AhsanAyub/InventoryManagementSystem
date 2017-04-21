@@ -1,0 +1,5 @@
+H:\University Doc\Coding\InventoryManagementSystem\Framework\obj\Debug\Framework.csprojResolveAssemblyReference.cache
+H:\University Doc\Coding\InventoryManagementSystem\Framework\bin\Debug\Framework.dll
+H:\University Doc\Coding\InventoryManagementSystem\Framework\bin\Debug\Framework.pdb
+H:\University Doc\Coding\InventoryManagementSystem\Framework\obj\Debug\Framework.dll
+H:\University Doc\Coding\InventoryManagementSystem\Framework\obj\Debug\Framework.pdb

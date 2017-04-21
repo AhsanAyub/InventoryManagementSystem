@@ -1,0 +1,8 @@
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojResolveAssemblyReference.cache
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.Cache
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+H:\University Doc\Coding\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb

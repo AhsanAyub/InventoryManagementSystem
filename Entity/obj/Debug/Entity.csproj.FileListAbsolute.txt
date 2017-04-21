@@ -1,0 +1,5 @@
+H:\University Doc\Coding\InventoryManagementSystem\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+H:\University Doc\Coding\InventoryManagementSystem\Entity\bin\Debug\Entity.dll
+H:\University Doc\Coding\InventoryManagementSystem\Entity\bin\Debug\Entity.pdb
+H:\University Doc\Coding\InventoryManagementSystem\Entity\obj\Debug\Entity.dll
+H:\University Doc\Coding\InventoryManagementSystem\Entity\obj\Debug\Entity.pdb

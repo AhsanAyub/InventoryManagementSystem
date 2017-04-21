@@ -1,0 +1,5 @@
+H:\University Doc\Coding\InventoryManagementSystem\Entity\bin\Release\Entity.dll
+H:\University Doc\Coding\InventoryManagementSystem\Entity\bin\Release\Entity.pdb
+H:\University Doc\Coding\InventoryManagementSystem\Entity\obj\Release\Entity.csprojResolveAssemblyReference.cache
+H:\University Doc\Coding\InventoryManagementSystem\Entity\obj\Release\Entity.dll
+H:\University Doc\Coding\InventoryManagementSystem\Entity\obj\Release\Entity.pdb
